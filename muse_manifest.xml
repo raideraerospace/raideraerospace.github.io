@@ -1,0 +1,596 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" ftp_hostname="ftpes://160.153.91.133" ftp_rootfolder="/" exportTarget="FTP" domain="raideraerospace.com" resolutions="1x" timestamp="1524826941369">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="critical-design-review-package.css" crc="461831832" ref="critical-design-review-package"/>
+    <file name="nomq_critical-design-review-package.css" crc="3912885883" ref="critical-design-review-package"/>
+    <file name="preliminary-design-review-package.css" crc="357843126" ref="preliminary-design-review-package"/>
+    <file name="nomq_preliminary-design-review-package.css" crc="4148035494" ref="preliminary-design-review-package"/>
+    <file name="about-us-copy-2.css" crc="277485293" ref="about-us-copy-2"/>
+    <file name="nomq_about-us-copy-2.css" crc="4001451378" ref="about-us-copy-2"/>
+    <file name="contact-us.css" crc="4275260331" ref="contact-us"/>
+    <file name="nomq_contact-us.css" crc="3811287391" ref="contact-us"/>
+    <file name="about-us-copy.css" crc="3992966009" ref="about-us-copy"/>
+    <file name="nomq_about-us-copy.css" crc="188288605" ref="about-us-copy"/>
+    <file name="index.css" crc="3813476557" ref="index"/>
+    <file name="nomq_index.css" crc="4217226971" ref="index"/>
+    <file name="donate.css" crc="3996801848" ref="donate"/>
+    <file name="nomq_donate.css" crc="3819720332" ref="donate"/>
+    <file name="documentation.css" crc="4096702488" ref="documentation"/>
+    <file name="nomq_documentation.css" crc="347343605" ref="documentation"/>
+    <file name="proposal.css" crc="3842285067" ref="proposal"/>
+    <file name="nomq_proposal.css" crc="380127729" ref="proposal"/>
+    <file name="flight-readiness-review-package.css" crc="3778791289" ref="flight-readiness-review-package"/>
+    <file name="nomq_flight-readiness-review-package.css" crc="4160509449" ref="flight-readiness-review-package"/>
+    <file name="about-us.css" crc="3877813189" ref="about-us"/>
+    <file name="nomq_about-us.css" crc="4052073941" ref="about-us"/>
+    <file name="safety-documentation.css" crc="4063226526" ref="safety-documentation"/>
+    <file name="nomq_safety-documentation.css" crc="3770725950" ref="safety-documentation"/>
+    <file name="post-launch-assessment-review.css" crc="316211174" ref="post-launch-assessment-review"/>
+    <file name="nomq_post-launch-assessment-review.css" crc="342545784" ref="post-launch-assessment-review"/>
+  </folder>
+  <folder name="assets">
+    <file name="texas-tech-university-2017-usli-proposal.pdf" crc="4236079747" seo="true" mt="1509666822000"/>
+    <file name="texas-tech-university-2017-usli-safety-agreement-.pdf" crc="3804219374" seo="true" mt="1509667706000"/>
+    <file name="texas-tech-2017-usli-pdr---presentation.pdf" crc="4227655128" seo="true" mt="1509712590000"/>
+    <file name="texas-tech-university-2017-usli-pdr.pdf" crc="3989707309" seo="true" mt="1509712920000"/>
+    <file name="texas-tech-university-2017-usli---flysheet.pdf" crc="84624003" seo="true" mt="1509712878000"/>
+    <file name="motor_chart.xlsx" crc="4139709455" seo="true" mt="1509431486000"/>
+    <file name="texas-tech-university---2018---cdr---report.pdf" crc="3842734827" seo="true" mt="1515746844000"/>
+    <file name="texas-tech-university---2018---cdr---presentation.pdf" crc="4154948049" seo="true" mt="1515747120000"/>
+    <file name="texas-tech-university---2018---cdr---flysheet.pdf" crc="254314610" seo="true" mt="1515747094000"/>
+    <file name="texas-tech-university---2018---frr---flysheet.xlsx" crc="3970216719" seo="true" mt="1520254671000"/>
+    <file name="texas-tech-university---2018---frr---flysheet.pdf" crc="3890346099" seo="true" mt="1520254785000"/>
+    <file name="texas-tech-university---2018---frr---report.pdf" crc="3866355759" seo="true" mt="1520257478000"/>
+    <file name="texas-tech-university---2018---frr---presentation.pdf" crc="84857558" seo="true" mt="1520257983000"/>
+    <file name="texas-tech-university-plar.pdf" crc="4105795909" seo="true" mt="1524809724000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:documentation:about-us:contact-us:proposal:safety-documentation:preliminary-design-review-package:about-us-copy:critical-design-review-package:donate:about-us-copy-2:flight-readiness-review-package:post-launch-assessment-review"/>
+    <file name="museutils.js" crc="4216313831" ref="index:documentation:about-us:contact-us:proposal:safety-documentation:preliminary-design-review-package:about-us-copy:critical-design-review-package:donate:about-us-copy-2:flight-readiness-review-package:post-launch-assessment-review"/>
+    <file name="whatinput.js" crc="86476730" ref="index:documentation:about-us:contact-us:proposal:safety-documentation:preliminary-design-review-package:about-us-copy:critical-design-review-package:donate:about-us-copy-2:flight-readiness-review-package:post-launch-assessment-review"/>
+    <file name="museconfig.js" crc="474374037" ref="index:documentation:about-us:contact-us:proposal:safety-documentation:preliminary-design-review-package:about-us-copy:critical-design-review-package:donate:about-us-copy-2:flight-readiness-review-package:post-launch-assessment-review"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index:about-us-copy:about-us-copy-2"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:documentation:about-us:contact-us:proposal:safety-documentation:preliminary-design-review-package:about-us-copy:critical-design-review-package:donate:about-us-copy-2:flight-readiness-review-package:post-launch-assessment-review"/>
+    <file name="jquery.museresponsive.js" crc="4055310269" ref="index:documentation:about-us:contact-us:proposal:safety-documentation:preliminary-design-review-package:about-us-copy:critical-design-review-package:donate:about-us-copy-2:flight-readiness-review-package:post-launch-assessment-review"/>
+    <file name="require.js" crc="3951022091" ref="index:documentation:about-us:contact-us:proposal:safety-documentation:preliminary-design-review-package:about-us-copy:critical-design-review-package:donate:about-us-copy-2:flight-readiness-review-package:post-launch-assessment-review"/>
+    <file name="webpro.js" crc="4143865194" ref="about-us:contact-us:about-us-copy:about-us-copy-2"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="about-us:about-us-copy:about-us-copy-2"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="about-us:about-us-copy:about-us-copy-2"/>
+    <file name="touchswipe.js" crc="4200445185" ref="about-us:about-us-copy:about-us-copy-2"/>
+    <file name="form_check.php" crc="154010282" ref="contact-us"/>
+    <file name="form_throttle.php" crc="266437015" ref="contact-us"/>
+    <file name="form_process.php" crc="512629711" ref="contact-us"/>
+    <file name="form-u1511.php" crc="348385958" ref="contact-us"/>
+  </folder>
+  <folder name="images">
+    <file name="logo 2.jpg" crc="4189603185" seo="true" ref="index:documentation:about-us:contact-us:proposal:safety-documentation:preliminary-design-review-package:about-us-copy:critical-design-review-package:donate:about-us-copy-2:flight-readiness-review-package:post-launch-assessment-review">
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="documentation" alt=""/>
+      <caption webpage="documentation" alt=""/>
+      <caption webpage="about-us-copy" alt=""/>
+      <caption webpage="about-us-copy" alt=""/>
+      <caption webpage="flight-readiness-review-package" alt=""/>
+      <caption webpage="flight-readiness-review-package" alt=""/>
+      <caption webpage="proposal" alt=""/>
+      <caption webpage="proposal" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="post-launch-assessment-review" alt=""/>
+      <caption webpage="post-launch-assessment-review" alt=""/>
+      <caption webpage="critical-design-review-package" alt=""/>
+      <caption webpage="critical-design-review-package" alt=""/>
+      <caption webpage="donate" alt=""/>
+      <caption webpage="donate" alt=""/>
+      <caption webpage="about-us-copy-2" alt=""/>
+      <caption webpage="about-us-copy-2" alt=""/>
+      <caption webpage="preliminary-design-review-package" alt=""/>
+      <caption webpage="preliminary-design-review-package" alt=""/>
+      <caption webpage="safety-documentation" alt=""/>
+      <caption webpage="safety-documentation" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:documentation:about-us:contact-us:proposal:safety-documentation:preliminary-design-review-package:about-us-copy:critical-design-review-package:donate:about-us-copy-2:flight-readiness-review-package:post-launch-assessment-review"/>
+    <file name="u144_states.png" crc="468091580" ref="index"/>
+    <file name="u144_states-r.png" crc="101203568" ref="index"/>
+    <file name="u144_states-m.png" crc="101203568" ref="index"/>
+    <file name="u147_states.png" crc="219150255" ref="index"/>
+    <file name="u147_states-r.png" crc="425938617" ref="index"/>
+    <file name="u147_states-m.png" crc="425938617" ref="index"/>
+    <file name="u150_states.png" crc="4286404764" ref="index"/>
+    <file name="u150_states-r.png" crc="285795160" ref="index"/>
+    <file name="u150_states-m.png" crc="285795160" ref="index"/>
+    <file name="u3459_states.png" crc="262538301" ref="index"/>
+    <file name="u3459_states-r.png" crc="258008260" ref="index"/>
+    <file name="u3459_states-m.png" crc="258008260" ref="index"/>
+    <file name="iconmonstr-facebook-3-240 (2).png" crc="4136811228" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iconmonstr-instagram-6-240 (2).png" crc="74382192" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iconmonstr-twitter-3-240.png" crc="4266474922" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="space raiders splash.jpg" crc="3964794815" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u144_states2.png" crc="4278797475" ref="index"/>
+    <file name="u144_states-r2.png" crc="14437816" ref="index"/>
+    <file name="u144_states-m2.png" crc="14437816" ref="index"/>
+    <file name="u147_states2.png" crc="477512732" ref="index"/>
+    <file name="u147_states-r2.png" crc="443164872" ref="index"/>
+    <file name="u147_states-m2.png" crc="443164872" ref="index"/>
+    <file name="u150_states2.png" crc="3838447685" ref="index"/>
+    <file name="u150_states-r2.png" crc="323096035" ref="index"/>
+    <file name="u150_states-m2.png" crc="323096035" ref="index"/>
+    <file name="u3459_states2.png" crc="4097840555" ref="index"/>
+    <file name="u3459_states-r2.png" crc="324794566" ref="index"/>
+    <file name="u3459_states-m2.png" crc="324794566" ref="index"/>
+    <file name="iconmonstr-facebook-3-240 (2)-crop-u1094.png" crc="4066108021" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iconmonstr-instagram-6-240 (2)-crop-u1070.png" crc="3887900735" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iconmonstr-twitter-3-240-crop-u1078.png" crc="4182872164" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="space raiders splash1920x1080.jpg" crc="4122625045" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u301_states.png" crc="439450105" ref="documentation"/>
+    <file name="u301_states-r.png" crc="4101293163" ref="documentation"/>
+    <file name="u301_states-m.png" crc="4101293163" ref="documentation"/>
+    <file name="u302-4-a.png" crc="3951694284" ref="documentation"/>
+    <file name="u303_states.png" crc="512318147" ref="documentation"/>
+    <file name="u303_states-r.png" crc="4034862194" ref="documentation"/>
+    <file name="u303_states-m.png" crc="4034862194" ref="documentation"/>
+    <file name="u3623_states.png" crc="434850374" ref="documentation"/>
+    <file name="u3623_states-r.png" crc="500210266" ref="documentation"/>
+    <file name="u3623_states-m.png" crc="500210266" ref="documentation"/>
+    <file name="u301_states2.png" crc="276791442" ref="documentation"/>
+    <file name="u301_states-r2.png" crc="4242450822" ref="documentation"/>
+    <file name="u301_states-m2.png" crc="4242450822" ref="documentation"/>
+    <file name="u302-4-a2.png" crc="341327068" ref="documentation"/>
+    <file name="u303_states2.png" crc="3947124952" ref="documentation"/>
+    <file name="u303_states-r2.png" crc="318466868" ref="documentation"/>
+    <file name="u303_states-m2.png" crc="318466868" ref="documentation"/>
+    <file name="u3623_states2.png" crc="379531346" ref="documentation"/>
+    <file name="u3623_states-r2.png" crc="440750899" ref="documentation"/>
+    <file name="u3623_states-m2.png" crc="440750899" ref="documentation"/>
+    <file name="dsc00297.jpg" crc="3861614767" seo="true" ref="about-us:about-us-copy:about-us-copy-2">
+      <caption webpage="about-us-copy" alt=""/>
+      <caption webpage="about-us-copy" alt=""/>
+      <caption webpage="about-us-copy-2" alt=""/>
+      <caption webpage="about-us-copy-2" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="dsc00418.jpg" crc="284285682" seo="true" ref="about-us:about-us-copy:about-us-copy-2">
+      <caption webpage="about-us-copy" alt=""/>
+      <caption webpage="about-us-copy" alt=""/>
+      <caption webpage="about-us-copy-2" alt=""/>
+      <caption webpage="about-us-copy-2" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="dsc00430.jpg" crc="61242836" seo="true" ref="about-us:about-us-copy:about-us-copy-2">
+      <caption webpage="about-us-copy" alt=""/>
+      <caption webpage="about-us-copy" alt=""/>
+      <caption webpage="about-us-copy-2" alt=""/>
+      <caption webpage="about-us-copy-2" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="dsc00444.jpg" crc="4147297245" seo="true" ref="about-us:about-us-copy:about-us-copy-2">
+      <caption webpage="about-us-copy" alt=""/>
+      <caption webpage="about-us-copy" alt=""/>
+      <caption webpage="about-us-copy-2" alt=""/>
+      <caption webpage="about-us-copy-2" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="about-us:about-us-copy:about-us-copy-2"/>
+    <file name="u641-4-a.png" crc="439450105" ref="about-us"/>
+    <file name="u642_states.png" crc="3951694284" ref="about-us"/>
+    <file name="u642_states-r.png" crc="353635842" ref="about-us"/>
+    <file name="u642_states-m.png" crc="353635842" ref="about-us"/>
+    <file name="u637_states.png" crc="512318147" ref="about-us"/>
+    <file name="u637_states-r.png" crc="4034862194" ref="about-us"/>
+    <file name="u637_states-m.png" crc="4034862194" ref="about-us"/>
+    <file name="u3541_states.png" crc="434850374" ref="about-us"/>
+    <file name="u3541_states-r.png" crc="500210266" ref="about-us"/>
+    <file name="u3541_states-m.png" crc="500210266" ref="about-us"/>
+    <file name="u641-4-a2.png" crc="276791442" ref="about-us"/>
+    <file name="u642_states2.png" crc="341327068" ref="about-us"/>
+    <file name="u642_states-r2.png" crc="394293396" ref="about-us"/>
+    <file name="u642_states-m2.png" crc="394293396" ref="about-us"/>
+    <file name="u637_states2.png" crc="3947124952" ref="about-us"/>
+    <file name="u637_states-r2.png" crc="318466868" ref="about-us"/>
+    <file name="u637_states-m2.png" crc="318466868" ref="about-us"/>
+    <file name="u3541_states2.png" crc="379531346" ref="about-us"/>
+    <file name="u3541_states-r2.png" crc="440750899" ref="about-us"/>
+    <file name="u3541_states-m2.png" crc="440750899" ref="about-us"/>
+    <file name="u703_states.png" crc="439450105" ref="contact-us"/>
+    <file name="u703_states-r.png" crc="4101293163" ref="contact-us"/>
+    <file name="u703_states-m.png" crc="4101293163" ref="contact-us"/>
+    <file name="u705_states.png" crc="3951694284" ref="contact-us"/>
+    <file name="u705_states-r.png" crc="353635842" ref="contact-us"/>
+    <file name="u705_states-m.png" crc="353635842" ref="contact-us"/>
+    <file name="u707-4-a.png" crc="512318147" ref="contact-us"/>
+    <file name="u3599_states.png" crc="434850374" ref="contact-us"/>
+    <file name="u3599_states-r.png" crc="500210266" ref="contact-us"/>
+    <file name="u3599_states-m.png" crc="500210266" ref="contact-us"/>
+    <file name="u703_states2.png" crc="276791442" ref="contact-us"/>
+    <file name="u703_states-r2.png" crc="4242450822" ref="contact-us"/>
+    <file name="u703_states-m2.png" crc="4242450822" ref="contact-us"/>
+    <file name="u705_states2.png" crc="341327068" ref="contact-us"/>
+    <file name="u705_states-r2.png" crc="394293396" ref="contact-us"/>
+    <file name="u705_states-m2.png" crc="394293396" ref="contact-us"/>
+    <file name="u707-4-a2.png" crc="3947124952" ref="contact-us"/>
+    <file name="u3599_states2.png" crc="379531346" ref="contact-us"/>
+    <file name="u3599_states-r2.png" crc="440750899" ref="contact-us"/>
+    <file name="u3599_states-m2.png" crc="440750899" ref="contact-us"/>
+    <file name="u1914_states.png" crc="439450105" ref="proposal"/>
+    <file name="u1914_states-r.png" crc="4101293163" ref="proposal"/>
+    <file name="u1914_states-m.png" crc="4101293163" ref="proposal"/>
+    <file name="u1909_states.png" crc="3951694284" ref="proposal"/>
+    <file name="u1909_states-r.png" crc="353635842" ref="proposal"/>
+    <file name="u1909_states-m.png" crc="353635842" ref="proposal"/>
+    <file name="u1908_states.png" crc="512318147" ref="proposal"/>
+    <file name="u1908_states-r.png" crc="4034862194" ref="proposal"/>
+    <file name="u1908_states-m.png" crc="4034862194" ref="proposal"/>
+    <file name="u4250_states.png" crc="434850374" ref="proposal"/>
+    <file name="u4250_states-r.png" crc="500210266" ref="proposal"/>
+    <file name="u4250_states-m.png" crc="500210266" ref="proposal"/>
+    <file name="u1914_states2.png" crc="276791442" ref="proposal"/>
+    <file name="u1914_states-r2.png" crc="4242450822" ref="proposal"/>
+    <file name="u1914_states-m2.png" crc="4242450822" ref="proposal"/>
+    <file name="u1909_states2.png" crc="341327068" ref="proposal"/>
+    <file name="u1909_states-r2.png" crc="394293396" ref="proposal"/>
+    <file name="u1909_states-m2.png" crc="394293396" ref="proposal"/>
+    <file name="u1908_states2.png" crc="3947124952" ref="proposal"/>
+    <file name="u1908_states-r2.png" crc="318466868" ref="proposal"/>
+    <file name="u1908_states-m2.png" crc="318466868" ref="proposal"/>
+    <file name="u4250_states2.png" crc="379531346" ref="proposal"/>
+    <file name="u4250_states-r2.png" crc="440750899" ref="proposal"/>
+    <file name="u4250_states-m2.png" crc="440750899" ref="proposal"/>
+    <file name="u2021_states.png" crc="439450105" ref="safety-documentation"/>
+    <file name="u2021_states-r.png" crc="4101293163" ref="safety-documentation"/>
+    <file name="u2021_states-m.png" crc="4101293163" ref="safety-documentation"/>
+    <file name="u2027_states.png" crc="3951694284" ref="safety-documentation"/>
+    <file name="u2027_states-r.png" crc="353635842" ref="safety-documentation"/>
+    <file name="u2027_states-m.png" crc="353635842" ref="safety-documentation"/>
+    <file name="u2022_states.png" crc="512318147" ref="safety-documentation"/>
+    <file name="u2022_states-r.png" crc="4034862194" ref="safety-documentation"/>
+    <file name="u2022_states-m.png" crc="4034862194" ref="safety-documentation"/>
+    <file name="u4264_states.png" crc="434850374" ref="safety-documentation"/>
+    <file name="u4264_states-r.png" crc="500210266" ref="safety-documentation"/>
+    <file name="u4264_states-m.png" crc="500210266" ref="safety-documentation"/>
+    <file name="u2021_states2.png" crc="276791442" ref="safety-documentation"/>
+    <file name="u2021_states-r2.png" crc="4242450822" ref="safety-documentation"/>
+    <file name="u2021_states-m2.png" crc="4242450822" ref="safety-documentation"/>
+    <file name="u2027_states2.png" crc="341327068" ref="safety-documentation"/>
+    <file name="u2027_states-r2.png" crc="394293396" ref="safety-documentation"/>
+    <file name="u2027_states-m2.png" crc="394293396" ref="safety-documentation"/>
+    <file name="u2022_states2.png" crc="3947124952" ref="safety-documentation"/>
+    <file name="u2022_states-r2.png" crc="318466868" ref="safety-documentation"/>
+    <file name="u2022_states-m2.png" crc="318466868" ref="safety-documentation"/>
+    <file name="u4264_states2.png" crc="379531346" ref="safety-documentation"/>
+    <file name="u4264_states-r2.png" crc="440750899" ref="safety-documentation"/>
+    <file name="u4264_states-m2.png" crc="440750899" ref="safety-documentation"/>
+    <file name="u2202_states.png" crc="439450105" ref="preliminary-design-review-package"/>
+    <file name="u2202_states-r.png" crc="4101293163" ref="preliminary-design-review-package"/>
+    <file name="u2202_states-m.png" crc="4101293163" ref="preliminary-design-review-package"/>
+    <file name="u2208_states.png" crc="3951694284" ref="preliminary-design-review-package"/>
+    <file name="u2208_states-r.png" crc="353635842" ref="preliminary-design-review-package"/>
+    <file name="u2208_states-m.png" crc="353635842" ref="preliminary-design-review-package"/>
+    <file name="u2200_states.png" crc="512318147" ref="preliminary-design-review-package"/>
+    <file name="u2200_states-r.png" crc="4034862194" ref="preliminary-design-review-package"/>
+    <file name="u2200_states-m.png" crc="4034862194" ref="preliminary-design-review-package"/>
+    <file name="u4278_states.png" crc="434850374" ref="preliminary-design-review-package"/>
+    <file name="u4278_states-r.png" crc="500210266" ref="preliminary-design-review-package"/>
+    <file name="u4278_states-m.png" crc="500210266" ref="preliminary-design-review-package"/>
+    <file name="u2202_states2.png" crc="276791442" ref="preliminary-design-review-package"/>
+    <file name="u2202_states-r2.png" crc="4242450822" ref="preliminary-design-review-package"/>
+    <file name="u2202_states-m2.png" crc="4242450822" ref="preliminary-design-review-package"/>
+    <file name="u2208_states2.png" crc="341327068" ref="preliminary-design-review-package"/>
+    <file name="u2208_states-r2.png" crc="394293396" ref="preliminary-design-review-package"/>
+    <file name="u2208_states-m2.png" crc="394293396" ref="preliminary-design-review-package"/>
+    <file name="u2200_states2.png" crc="3947124952" ref="preliminary-design-review-package"/>
+    <file name="u2200_states-r2.png" crc="318466868" ref="preliminary-design-review-package"/>
+    <file name="u2200_states-m2.png" crc="318466868" ref="preliminary-design-review-package"/>
+    <file name="u4278_states2.png" crc="379531346" ref="preliminary-design-review-package"/>
+    <file name="u4278_states-r2.png" crc="440750899" ref="preliminary-design-review-package"/>
+    <file name="u4278_states-m2.png" crc="440750899" ref="preliminary-design-review-package"/>
+    <file name="dsc00325.jpg" crc="191660744" ref="about-us-copy:about-us-copy-2">
+      <caption webpage="about-us-copy" alt=""/>
+      <caption webpage="about-us-copy" alt=""/>
+      <caption webpage="about-us-copy-2" alt=""/>
+      <caption webpage="about-us-copy-2" alt=""/>
+    </file>
+    <file name="dsc00361.jpg" crc="4008288047" ref="about-us-copy:about-us-copy-2">
+      <caption webpage="about-us-copy" alt=""/>
+      <caption webpage="about-us-copy" alt=""/>
+      <caption webpage="about-us-copy-2" alt=""/>
+      <caption webpage="about-us-copy-2" alt=""/>
+    </file>
+    <file name="dsc00348.jpg" crc="26812003" ref="about-us-copy:about-us-copy-2">
+      <caption webpage="about-us-copy" alt=""/>
+      <caption webpage="about-us-copy" alt=""/>
+      <caption webpage="about-us-copy-2" alt=""/>
+      <caption webpage="about-us-copy-2" alt=""/>
+    </file>
+    <file name="dsc00365.jpg" crc="4129281788" ref="about-us-copy:about-us-copy-2">
+      <caption webpage="about-us-copy" alt=""/>
+      <caption webpage="about-us-copy" alt=""/>
+      <caption webpage="about-us-copy-2" alt=""/>
+      <caption webpage="about-us-copy-2" alt=""/>
+    </file>
+    <file name="dsc00320.jpg" crc="3811408956" ref="about-us-copy:about-us-copy-2">
+      <caption webpage="about-us-copy" alt=""/>
+      <caption webpage="about-us-copy" alt=""/>
+      <caption webpage="about-us-copy-2" alt=""/>
+      <caption webpage="about-us-copy-2" alt=""/>
+    </file>
+    <file name="dsc00334.jpg" crc="25744514" ref="about-us-copy:about-us-copy-2">
+      <caption webpage="about-us-copy" alt=""/>
+      <caption webpage="about-us-copy" alt=""/>
+      <caption webpage="about-us-copy-2" alt=""/>
+      <caption webpage="about-us-copy-2" alt=""/>
+    </file>
+    <file name="dsc00389.jpg" crc="400968362" ref="about-us-copy:about-us-copy-2">
+      <caption webpage="about-us-copy" alt=""/>
+      <caption webpage="about-us-copy" alt=""/>
+      <caption webpage="about-us-copy-2" alt=""/>
+      <caption webpage="about-us-copy-2" alt=""/>
+    </file>
+    <file name="jericho rosas.jpg" crc="3995544937" ref="about-us-copy:about-us-copy-2">
+      <caption webpage="about-us-copy" alt=""/>
+      <caption webpage="about-us-copy" alt=""/>
+      <caption webpage="about-us-copy-2" alt=""/>
+      <caption webpage="about-us-copy-2" alt=""/>
+    </file>
+    <file name="u3269_states.png" crc="439450105" ref="about-us-copy"/>
+    <file name="u3269_states-r.png" crc="4101293163" ref="about-us-copy"/>
+    <file name="u3269_states-m.png" crc="4101293163" ref="about-us-copy"/>
+    <file name="u3211_states.png" crc="3951694284" ref="about-us-copy"/>
+    <file name="u3211_states-r.png" crc="353635842" ref="about-us-copy"/>
+    <file name="u3211_states-m.png" crc="353635842" ref="about-us-copy"/>
+    <file name="u3259_states.png" crc="512318147" ref="about-us-copy"/>
+    <file name="u3259_states-r.png" crc="4034862194" ref="about-us-copy"/>
+    <file name="u3259_states-m.png" crc="4034862194" ref="about-us-copy"/>
+    <file name="u3269_states2.png" crc="276791442" ref="about-us-copy"/>
+    <file name="u3269_states-r2.png" crc="4242450822" ref="about-us-copy"/>
+    <file name="u3269_states-m2.png" crc="4242450822" ref="about-us-copy"/>
+    <file name="u3211_states2.png" crc="341327068" ref="about-us-copy"/>
+    <file name="u3211_states-r2.png" crc="394293396" ref="about-us-copy"/>
+    <file name="u3211_states-m2.png" crc="394293396" ref="about-us-copy"/>
+    <file name="u3259_states2.png" crc="3947124952" ref="about-us-copy"/>
+    <file name="u3259_states-r2.png" crc="318466868" ref="about-us-copy"/>
+    <file name="u3259_states-m2.png" crc="318466868" ref="about-us-copy"/>
+    <file name="u3394_states.png" crc="439450105" ref="critical-design-review-package"/>
+    <file name="u3394_states-r.png" crc="4101293163" ref="critical-design-review-package"/>
+    <file name="u3394_states-m.png" crc="4101293163" ref="critical-design-review-package"/>
+    <file name="u3400_states.png" crc="3951694284" ref="critical-design-review-package"/>
+    <file name="u3400_states-r.png" crc="353635842" ref="critical-design-review-package"/>
+    <file name="u3400_states-m.png" crc="353635842" ref="critical-design-review-package"/>
+    <file name="u3392_states.png" crc="512318147" ref="critical-design-review-package"/>
+    <file name="u3392_states-r.png" crc="4034862194" ref="critical-design-review-package"/>
+    <file name="u3392_states-m.png" crc="4034862194" ref="critical-design-review-package"/>
+    <file name="u3605_states.png" crc="434850374" ref="critical-design-review-package"/>
+    <file name="u3605_states-r.png" crc="500210266" ref="critical-design-review-package"/>
+    <file name="u3605_states-m.png" crc="500210266" ref="critical-design-review-package"/>
+    <file name="u3394_states2.png" crc="276791442" ref="critical-design-review-package"/>
+    <file name="u3394_states-r2.png" crc="4242450822" ref="critical-design-review-package"/>
+    <file name="u3394_states-m2.png" crc="4242450822" ref="critical-design-review-package"/>
+    <file name="u3400_states2.png" crc="341327068" ref="critical-design-review-package"/>
+    <file name="u3400_states-r2.png" crc="394293396" ref="critical-design-review-package"/>
+    <file name="u3400_states-m2.png" crc="394293396" ref="critical-design-review-package"/>
+    <file name="u3392_states2.png" crc="3947124952" ref="critical-design-review-package"/>
+    <file name="u3392_states-r2.png" crc="318466868" ref="critical-design-review-package"/>
+    <file name="u3392_states-m2.png" crc="318466868" ref="critical-design-review-package"/>
+    <file name="u3605_states2.png" crc="379531346" ref="critical-design-review-package"/>
+    <file name="u3605_states-r2.png" crc="440750899" ref="critical-design-review-package"/>
+    <file name="u3605_states-m2.png" crc="440750899" ref="critical-design-review-package"/>
+    <file name="u3655_states.png" crc="439450105" ref="donate"/>
+    <file name="u3655_states-r.png" crc="4101293163" ref="donate"/>
+    <file name="u3655_states-m.png" crc="4101293163" ref="donate"/>
+    <file name="u3654_states.png" crc="3951694284" ref="donate"/>
+    <file name="u3654_states-r.png" crc="353635842" ref="donate"/>
+    <file name="u3654_states-m.png" crc="353635842" ref="donate"/>
+    <file name="u3660_states.png" crc="512318147" ref="donate"/>
+    <file name="u3660_states-r.png" crc="4034862194" ref="donate"/>
+    <file name="u3660_states-m.png" crc="4034862194" ref="donate"/>
+    <file name="u3656-4-a.png" crc="434850374" ref="donate"/>
+    <file name="u3655_states2.png" crc="276791442" ref="donate"/>
+    <file name="u3655_states-r2.png" crc="4242450822" ref="donate"/>
+    <file name="u3655_states-m2.png" crc="4242450822" ref="donate"/>
+    <file name="u3654_states2.png" crc="341327068" ref="donate"/>
+    <file name="u3654_states-r2.png" crc="394293396" ref="donate"/>
+    <file name="u3654_states-m2.png" crc="394293396" ref="donate"/>
+    <file name="u3660_states2.png" crc="3947124952" ref="donate"/>
+    <file name="u3660_states-r2.png" crc="318466868" ref="donate"/>
+    <file name="u3660_states-m2.png" crc="318466868" ref="donate"/>
+    <file name="u3656-4-a2.png" crc="379531346" ref="donate"/>
+    <file name="u4103_states.png" crc="439450105" ref="about-us-copy-2"/>
+    <file name="u4103_states-r.png" crc="4101293163" ref="about-us-copy-2"/>
+    <file name="u4103_states-m.png" crc="4101293163" ref="about-us-copy-2"/>
+    <file name="u4119_states.png" crc="3951694284" ref="about-us-copy-2"/>
+    <file name="u4119_states-r.png" crc="353635842" ref="about-us-copy-2"/>
+    <file name="u4119_states-m.png" crc="353635842" ref="about-us-copy-2"/>
+    <file name="u4091_states.png" crc="512318147" ref="about-us-copy-2"/>
+    <file name="u4091_states-r.png" crc="4034862194" ref="about-us-copy-2"/>
+    <file name="u4091_states-m.png" crc="4034862194" ref="about-us-copy-2"/>
+    <file name="u4114_states.png" crc="434850374" ref="about-us-copy-2"/>
+    <file name="u4114_states-r.png" crc="500210266" ref="about-us-copy-2"/>
+    <file name="u4114_states-m.png" crc="500210266" ref="about-us-copy-2"/>
+    <file name="u4103_states2.png" crc="276791442" ref="about-us-copy-2"/>
+    <file name="u4103_states-r2.png" crc="4242450822" ref="about-us-copy-2"/>
+    <file name="u4103_states-m2.png" crc="4242450822" ref="about-us-copy-2"/>
+    <file name="u4119_states2.png" crc="341327068" ref="about-us-copy-2"/>
+    <file name="u4119_states-r2.png" crc="394293396" ref="about-us-copy-2"/>
+    <file name="u4119_states-m2.png" crc="394293396" ref="about-us-copy-2"/>
+    <file name="u4091_states2.png" crc="3947124952" ref="about-us-copy-2"/>
+    <file name="u4091_states-r2.png" crc="318466868" ref="about-us-copy-2"/>
+    <file name="u4091_states-m2.png" crc="318466868" ref="about-us-copy-2"/>
+    <file name="u4114_states2.png" crc="379531346" ref="about-us-copy-2"/>
+    <file name="u4114_states-r2.png" crc="440750899" ref="about-us-copy-2"/>
+    <file name="u4114_states-m2.png" crc="440750899" ref="about-us-copy-2"/>
+    <file name="u4586_states.png" crc="439450105" ref="flight-readiness-review-package"/>
+    <file name="u4586_states-r.png" crc="4101293163" ref="flight-readiness-review-package"/>
+    <file name="u4586_states-m.png" crc="4101293163" ref="flight-readiness-review-package"/>
+    <file name="u4579_states.png" crc="3951694284" ref="flight-readiness-review-package"/>
+    <file name="u4579_states-r.png" crc="353635842" ref="flight-readiness-review-package"/>
+    <file name="u4579_states-m.png" crc="353635842" ref="flight-readiness-review-package"/>
+    <file name="u4582_states.png" crc="512318147" ref="flight-readiness-review-package"/>
+    <file name="u4582_states-r.png" crc="4034862194" ref="flight-readiness-review-package"/>
+    <file name="u4582_states-m.png" crc="4034862194" ref="flight-readiness-review-package"/>
+    <file name="u4583_states.png" crc="434850374" ref="flight-readiness-review-package"/>
+    <file name="u4583_states-r.png" crc="500210266" ref="flight-readiness-review-package"/>
+    <file name="u4583_states-m.png" crc="500210266" ref="flight-readiness-review-package"/>
+    <file name="u4586_states2.png" crc="276791442" ref="flight-readiness-review-package"/>
+    <file name="u4586_states-r2.png" crc="4242450822" ref="flight-readiness-review-package"/>
+    <file name="u4586_states-m2.png" crc="4242450822" ref="flight-readiness-review-package"/>
+    <file name="u4579_states2.png" crc="341327068" ref="flight-readiness-review-package"/>
+    <file name="u4579_states-r2.png" crc="394293396" ref="flight-readiness-review-package"/>
+    <file name="u4579_states-m2.png" crc="394293396" ref="flight-readiness-review-package"/>
+    <file name="u4582_states2.png" crc="3947124952" ref="flight-readiness-review-package"/>
+    <file name="u4582_states-r2.png" crc="318466868" ref="flight-readiness-review-package"/>
+    <file name="u4582_states-m2.png" crc="318466868" ref="flight-readiness-review-package"/>
+    <file name="u4583_states2.png" crc="379531346" ref="flight-readiness-review-package"/>
+    <file name="u4583_states-r2.png" crc="440750899" ref="flight-readiness-review-package"/>
+    <file name="u4583_states-m2.png" crc="440750899" ref="flight-readiness-review-package"/>
+    <file name="u4768_states.png" crc="439450105" ref="post-launch-assessment-review"/>
+    <file name="u4768_states-r.png" crc="4101293163" ref="post-launch-assessment-review"/>
+    <file name="u4768_states-m.png" crc="4101293163" ref="post-launch-assessment-review"/>
+    <file name="u4761_states.png" crc="3951694284" ref="post-launch-assessment-review"/>
+    <file name="u4761_states-r.png" crc="353635842" ref="post-launch-assessment-review"/>
+    <file name="u4761_states-m.png" crc="353635842" ref="post-launch-assessment-review"/>
+    <file name="u4770_states.png" crc="512318147" ref="post-launch-assessment-review"/>
+    <file name="u4770_states-r.png" crc="4034862194" ref="post-launch-assessment-review"/>
+    <file name="u4770_states-m.png" crc="4034862194" ref="post-launch-assessment-review"/>
+    <file name="u4769_states.png" crc="434850374" ref="post-launch-assessment-review"/>
+    <file name="u4769_states-r.png" crc="500210266" ref="post-launch-assessment-review"/>
+    <file name="u4769_states-m.png" crc="500210266" ref="post-launch-assessment-review"/>
+    <file name="u4768_states2.png" crc="276791442" ref="post-launch-assessment-review"/>
+    <file name="u4768_states-r2.png" crc="4242450822" ref="post-launch-assessment-review"/>
+    <file name="u4768_states-m2.png" crc="4242450822" ref="post-launch-assessment-review"/>
+    <file name="u4761_states2.png" crc="341327068" ref="post-launch-assessment-review"/>
+    <file name="u4761_states-r2.png" crc="394293396" ref="post-launch-assessment-review"/>
+    <file name="u4761_states-m2.png" crc="394293396" ref="post-launch-assessment-review"/>
+    <file name="u4770_states2.png" crc="3947124952" ref="post-launch-assessment-review"/>
+    <file name="u4770_states-r2.png" crc="318466868" ref="post-launch-assessment-review"/>
+    <file name="u4770_states-m2.png" crc="318466868" ref="post-launch-assessment-review"/>
+    <file name="u4769_states2.png" crc="379531346" ref="post-launch-assessment-review"/>
+    <file name="u4769_states-r2.png" crc="440750899" ref="post-launch-assessment-review"/>
+    <file name="u4769_states-m2.png" crc="440750899" ref="post-launch-assessment-review"/>
+  </folder>
+  <file name="index.html" crc="452291665" seo="true" mt="1517255294235" redirect="true"/>
+  <file name="documentation.html" crc="4022397236" seo="true" mt="1524826918271" redirect="true"/>
+  <file name="about-us.html" crc="4209756804" seo="true" mt="1517255532784" redirect="true"/>
+  <file name="contact-us.html" crc="3954118253" seo="true" mt="1517255311896" redirect="true"/>
+  <file name="proposal.html" crc="520689375" seo="true" mt="1516947912275" redirect="true"/>
+  <file name="safety-documentation.html" crc="224534007" seo="true" mt="1516947926742" redirect="true"/>
+  <file name="preliminary-design-review-package.html" crc="525629542" seo="true" mt="1517254693270" redirect="true"/>
+  <file name="about-us-copy.html" crc="343928187" seo="true" mt="1520258100135" redirect="true"/>
+  <file name="critical-design-review-package.html" crc="487232736" seo="true" mt="1517255608340" redirect="true"/>
+  <file name="donate.html" crc="3867401998" seo="true" mt="1517254625885" redirect="true"/>
+  <file name="about-us-copy-2.html" crc="231329385" seo="true" mt="1520258103390" redirect="true"/>
+  <file name="flight-readiness-review-package.html" crc="4220228213" seo="true" mt="1520258065491" redirect="true"/>
+  <file name="post-launch-assessment-review.html" crc="4252854403" seo="true" mt="1524809862716" redirect="true"/>
+  <site>
+    <asset filename="texas-tech-university-2017-usli-proposal.pdf" muse_href="upload:U1940"/>
+    <asset filename="texas-tech-university-2017-usli-safety-agreement-.pdf" muse_href="upload:U2063"/>
+    <asset filename="texas-tech-2017-usli-pdr---presentation.pdf" muse_href="upload:U2376"/>
+    <asset filename="texas-tech-university-2017-usli-pdr.pdf" muse_href="upload:U2378"/>
+    <asset filename="texas-tech-university-2017-usli---flysheet.pdf" muse_href="upload:U2380"/>
+    <asset filename="motor_chart.xlsx" muse_href="upload:U2398"/>
+    <asset filename="texas-tech-university---2018---cdr---report.pdf" muse_href="upload:U4410"/>
+    <asset filename="texas-tech-university---2018---cdr---presentation.pdf" muse_href="upload:U4412"/>
+    <asset filename="texas-tech-university---2018---cdr---flysheet.pdf" muse_href="upload:U4414"/>
+    <asset filename="texas-tech-university---2018---frr---flysheet.xlsx" muse_href="upload:U4636"/>
+    <asset filename="texas-tech-university---2018---frr---flysheet.pdf" muse_href="upload:U4638"/>
+    <asset filename="texas-tech-university---2018---frr---report.pdf" muse_href="upload:U4640"/>
+    <asset filename="texas-tech-university---2018---frr---presentation.pdf" muse_href="upload:U4650"/>
+    <asset filename="texas-tech-university-plar.pdf" muse_href="upload:U4796"/>
+    <paragraphStyle className="normal_text" uid="U49"/>
+    <nestedListStyle className="nls-None" uid="U52"/>
+  </site>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Texas Tech University - Space Raiders" filename="index.html" muse_href="page:U93" master="U72">
+        <breakpoint uid="U83" maxwidth="960" minwidth="0" squishy="true"/>
+        <breakpoint uid="U168" maxwidth="1920" minwidth="961" squishy="true"/>
+      </page>
+      <masterPage name="A-Master" master="U62" uid="U72">
+        <breakpoint uid="U73" maxwidth="960" minwidth="0" squishy="true"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U62">
+        <breakpoint uid="U63" maxwidth="960" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="Documentation" filename="documentation.html" muse_href="page:U310" master="U72">
+        <breakpoint uid="U275" maxwidth="960" minwidth="0" squishy="true"/>
+        <breakpoint uid="U286" maxwidth="1920" minwidth="961" squishy="true"/>
+        <anchor name="Untitled" html_id="untitled" muse_href="anchor:U272:U580" includeInBPs="U275,U286"/>
+      </page>
+      <page name="About Us" filename="about-us.html" muse_href="page:U668" master="U72">
+        <breakpoint uid="U643" maxwidth="960" minwidth="0" squishy="true"/>
+        <breakpoint uid="U655" maxwidth="1920" minwidth="961" squishy="true"/>
+        <anchor name="Untitled" html_id="untitled" muse_href="anchor:U628:U636" includeInBPs="U643,U655"/>
+      </page>
+      <page name="Contact Us" filename="contact-us.html" muse_href="page:U713" master="U72">
+        <breakpoint uid="U676" maxwidth="960" minwidth="0" squishy="true"/>
+        <breakpoint uid="U690" maxwidth="1920" minwidth="961" squishy="true"/>
+        <anchor name="Untitled" html_id="untitled" muse_href="anchor:U673:U710" includeInBPs="U676,U690"/>
+      </page>
+      <page name="Proposal" filename="proposal.html" muse_href="page:U1930" master="U72">
+        <breakpoint uid="U1893" maxwidth="960" minwidth="0" squishy="true"/>
+        <breakpoint uid="U1917" maxwidth="1920" minwidth="961" squishy="true"/>
+        <anchor name="Untitled" html_id="untitled" muse_href="anchor:U1890:U1912" includeInBPs="U1893,U1917"/>
+      </page>
+      <page name="Safety Documentation" filename="safety-documentation.html" muse_href="page:U2029" master="U72">
+        <breakpoint uid="U1994" maxwidth="960" minwidth="0" squishy="true"/>
+        <breakpoint uid="U2006" maxwidth="1920" minwidth="961" squishy="true"/>
+        <anchor name="Untitled" html_id="untitled" muse_href="anchor:U1989:U2023" includeInBPs="U1994,U2006"/>
+      </page>
+      <page name="Preliminary Design Review Package" filename="preliminary-design-review-package.html" muse_href="page:U2239" master="U72">
+        <breakpoint uid="U2222" maxwidth="960" minwidth="0" squishy="true"/>
+        <breakpoint uid="U2209" maxwidth="1920" minwidth="961" squishy="true"/>
+        <anchor name="Untitled" html_id="untitled" muse_href="anchor:U2196:U2201" includeInBPs="U2222,U2209"/>
+      </page>
+      <page name="About Us copy" filename="about-us-copy.html" muse_href="page:U3280" master="U72">
+        <breakpoint uid="U3137" maxwidth="960" minwidth="0" squishy="true"/>
+        <breakpoint uid="U3069" maxwidth="1920" minwidth="961" squishy="true"/>
+        <anchor name="Untitled" html_id="untitled" muse_href="anchor:U3064:U3214" includeInBPs="U3137,U3069"/>
+      </page>
+      <page name="Critical Design Review Package" filename="critical-design-review-package.html" muse_href="page:U3406" master="U72">
+        <breakpoint uid="U3360" maxwidth="960" minwidth="0" squishy="true"/>
+        <breakpoint uid="U3375" maxwidth="1920" minwidth="961" squishy="true"/>
+        <anchor name="Untitled" html_id="untitled" muse_href="anchor:U3357:U3395" includeInBPs="U3360,U3375"/>
+      </page>
+      <page name="Donate" filename="donate.html" muse_href="page:U3701" master="U72">
+        <breakpoint uid="U3684" maxwidth="960" minwidth="0" squishy="true"/>
+        <breakpoint uid="U3668" maxwidth="1920" minwidth="961" squishy="true"/>
+        <anchor name="Untitled" html_id="untitled" muse_href="anchor:U3649:U3653" includeInBPs="U3684,U3668"/>
+      </page>
+      <page name="About Us copy 2" filename="about-us-copy-2.html" muse_href="page:U4133" master="U72">
+        <breakpoint uid="U3914" maxwidth="960" minwidth="0" squishy="true"/>
+        <breakpoint uid="U3985" maxwidth="1920" minwidth="961" squishy="true"/>
+        <anchor name="Untitled" html_id="untitled" muse_href="anchor:U3911:U4108" includeInBPs="U3914,U3985"/>
+      </page>
+      <page name="Flight Readiness Review Package" filename="flight-readiness-review-package.html" muse_href="page:U4604" master="U72">
+        <breakpoint uid="U4588" maxwidth="960" minwidth="0" squishy="true"/>
+        <breakpoint uid="U4560" maxwidth="1920" minwidth="961" squishy="true"/>
+        <anchor name="Untitled" html_id="untitled" muse_href="anchor:U4555:U4580" includeInBPs="U4588,U4560"/>
+      </page>
+      <page name="Post Launch Assessment Review" filename="post-launch-assessment-review.html" muse_href="page:U4772" master="U72">
+        <breakpoint uid="U4744" maxwidth="960" minwidth="0" squishy="true"/>
+        <breakpoint uid="U4727" maxwidth="1920" minwidth="961" squishy="true"/>
+        <anchor name="Untitled" html_id="untitled" muse_href="anchor:U4723:U4760" includeInBPs="U4744,U4727"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>
